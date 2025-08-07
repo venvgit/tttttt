@@ -1,0 +1,1 @@
+import React from 'react'; function ServerList() { return (<div><h2>Server List</h2></div>); } export default ServerList;
