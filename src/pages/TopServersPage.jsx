@@ -1,0 +1,1 @@
+import React from 'react'; function TopServersPage() { return (<div><h1>Top 50 Servers</h1></div>); } export default TopServersPage;
