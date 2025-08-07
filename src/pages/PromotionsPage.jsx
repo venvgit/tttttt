@@ -1,0 +1,1 @@
+import React from 'react'; function PromotionsPage() { return (<div><h1>Promotions and Highlights</h1></div>); } export default PromotionsPage;
