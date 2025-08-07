@@ -1,0 +1,1 @@
+import React from 'react'; function UserPanelPage() { return (<div><h1>User Panel</h1></div>); } export default UserPanelPage;
