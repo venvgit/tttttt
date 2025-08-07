@@ -1,0 +1,1 @@
+import React from 'react'; function RegisterServerPage() { return (<div><h1>Register a New Server</h1></div>); } export default RegisterServerPage;
