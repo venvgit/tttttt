@@ -1,0 +1,1 @@
+import React from 'react'; import { motion } from 'framer-motion'; import ServerList from '../components/ServerList'; function HomePage() { return (<motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}><h1 className="text-3xl font-bold">Ragnarok Server Ranking</h1><ServerList /></motion.div>); } export default HomePage;
